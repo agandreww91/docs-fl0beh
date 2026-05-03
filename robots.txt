@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-u1qlpa.10depositcasino.co.nz/sitemap.xml
